@@ -1,0 +1,30 @@
+{
+	"name": "Новый проект",
+	"version": "1.0.0.0",
+	"description": "",
+	"id": "",
+	"unique-id": "hdc3gtcc3xo",
+	"viewport-width": 854,
+	"viewport-height": 480,
+	"author": "",
+	"email": "",
+	"website": "",
+	"orientations": "landscape",
+	"c2version": "244",
+	"c3version": "r218",
+	"ife": true,
+	"used-plugins": [
+		"TiledBg",
+		"Sprite",
+		"Mouse",
+		"Text"
+	],
+	"used-behaviors": [
+		"EightDir",
+		"scrollto",
+		"bound",
+		"Bullet",
+		"destroy",
+		"solid"
+	]
+}
